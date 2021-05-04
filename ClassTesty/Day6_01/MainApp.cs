@@ -33,7 +33,11 @@ namespace Day6_01
             //기반 클래스에서 오버라이딩할 메소드를 미리 virtual로 한정
             //파생 클래스는 virtual 메소드를 override 한정자를 이용해 재선언
             noname.Sleep();
-
+            var list = (First:"가",Second: "나", Third: "다",55);
+            Console.WriteLine($"튜플 첫번째: {list.First}");
+            Console.WriteLine($"튜플 두번째: {list.Second}");
+            Console.WriteLine($"튜플 세번째: {list.Third}");
+            Console.WriteLine($"튜플 네번째: {list.Item4}");
 
         }
     }

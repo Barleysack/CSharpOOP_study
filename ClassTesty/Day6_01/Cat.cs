@@ -44,5 +44,8 @@ namespace Day6_01
         public void Meow() { Console.WriteLine("{0},meow!", this.Name);
             Console.WriteLine("{0}{1},meow!", this.Color,this.Name);
         }//this.name이 0으로 들어간다.
+
+        
+
     }
 }
