@@ -38,6 +38,7 @@ namespace Day6_01
             Console.WriteLine($"튜플 두번째: {list.Second}");
             Console.WriteLine($"튜플 세번째: {list.Third}");
             Console.WriteLine($"튜플 네번째: {list.Item4}");
+            
 
         }
     }
