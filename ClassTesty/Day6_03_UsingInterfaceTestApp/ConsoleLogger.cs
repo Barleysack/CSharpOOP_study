@@ -10,18 +10,19 @@ namespace Day6_03_UsingInterfaceTestApp
     {
         public DateTime Currenttime { get; set; }
         
-            
+        public DateTime solly { get; set; }
     
     
-
+        
         public ConsoleLogger(DateTime currenttime)
         {
             this.Currenttime = currenttime;
+            this.solly = currenttime;
         }
 
         public void WriteLog(string message)
         {
-            Console.WriteLine($"Console Log:{Currenttime} {message}");
+            Console.WriteLine($"Console Log:{solly} {message}");
         }
     
     }
