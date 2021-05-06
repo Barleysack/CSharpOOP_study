@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7_Collection_Indexer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_QueueTestApp", "Day7_QueueTestApp\Day7_QueueTestApp.csproj", "{D2EF9DCE-7847-4155-B429-9CB7D23695BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_IndexerTestApp", "Day7_IndexerTestApp\Day7_IndexerTestApp.csproj", "{C4B4F949-3EB1-47AF-B136-0960764D0F7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D2EF9DCE-7847-4155-B429-9CB7D23695BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2EF9DCE-7847-4155-B429-9CB7D23695BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2EF9DCE-7847-4155-B429-9CB7D23695BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B4F949-3EB1-47AF-B136-0960764D0F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B4F949-3EB1-47AF-B136-0960764D0F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B4F949-3EB1-47AF-B136-0960764D0F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B4F949-3EB1-47AF-B136-0960764D0F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
