@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_PropertytestApp", "Day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_ArrayTestApp", "ArrayTestApp\Day7_ArrayTestApp.csproj", "{9CEA4EED-1A72-4438-A2EE-82AF78022B36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_Collection_Indexer", "Day7_Collection_Indexer\Day7_Collection_Indexer.csproj", "{95702FFC-C1F1-4E9C-8A20-890A12B41104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9CEA4EED-1A72-4438-A2EE-82AF78022B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CEA4EED-1A72-4438-A2EE-82AF78022B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CEA4EED-1A72-4438-A2EE-82AF78022B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95702FFC-C1F1-4E9C-8A20-890A12B41104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95702FFC-C1F1-4E9C-8A20-890A12B41104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95702FFC-C1F1-4E9C-8A20-890A12B41104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95702FFC-C1F1-4E9C-8A20-890A12B41104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
