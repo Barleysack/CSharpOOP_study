@@ -10,8 +10,8 @@ namespace Day8_ExceptionTestApp
             int[] array = new int[5];
             try
             {
-                string message = null;
-                int k = message.Length;
+                
+                
                 for (int i = 0; i <= 5; i++)
                 {
                     array[i] = i + 1;//
@@ -28,7 +28,12 @@ namespace Day8_ExceptionTestApp
             {
                 Console.WriteLine($"예외발생:{ex.Message}");
             }
-            Console.WriteLine("다른뭐시기...");
+
+            finally
+            {
+                Console.WriteLine("언제든지 실행되는 파이널리");
+            }
+            
             Console.WriteLine("정상종료");
         }
     }
