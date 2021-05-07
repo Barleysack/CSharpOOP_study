@@ -21,5 +21,19 @@ namespace Day8_EventHandlerCheckApp
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+    
+
+        private void BTNlogin_Click(object sender, EventArgs e)
+        {
+            var result = txtUserID.Text + "\n" + txtPW.Text;
+            MessageBox.Show($"당신의 아이디와 패스워드는 {result}");
+
+        }
     }
 }
