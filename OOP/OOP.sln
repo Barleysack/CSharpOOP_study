@@ -19,9 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_GenericTestApp", "Day8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_GenericTestApp2", "Day8_GenericTestApp2\Day8_GenericTestApp2.csproj", "{14E3070D-1961-4011-8DD8-6B4849D0FE8B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_02_InterfaceTestAPP", "Day6_02_InterfaceTestAPP\Day6_02_InterfaceTestAPP.csproj", "{046FA266-7E71-45F8-8E08-85F04163D32B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_InterfaceTestAPP", "Day6_02_InterfaceTestAPP\Day6_InterfaceTestAPP.csproj", "{046FA266-7E71-45F8-8E08-85F04163D32B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_03_UsingInterfaceTestApp", "Day6_03_UsingInterfaceTestApp\Day6_03_UsingInterfaceTestApp.csproj", "{8D12899E-AD8C-46B2-B617-472D4A6F3352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_UsingInterfaceTestApp", "Day6_03_UsingInterfaceTestApp\Day6_UsingInterfaceTestApp.csproj", "{8D12899E-AD8C-46B2-B617-472D4A6F3352}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_GenereicCollectionApp", "Day8_GenereicCollection\Day8_GenereicCollectionApp.csproj", "{A7782722-F34E-4C7A-ABD9-0181F6718905}"
 EndProject
@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_EventHandlerTestApp", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_EventHandlerCheckApp", "Day8_EventHandlerCheckApp\Day8_EventHandlerCheckApp.csproj", "{4EE959B8-E42D-4EEB-8237-65704574E332}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_01_classtestapp", "Day6_01_classtestApp\Day6_01_classtestapp.csproj", "{D60C12C2-990B-4EF6-9672-0C1FFC3DF66E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6_classtestapp", "Day6_01_classtestApp\Day6_classtestapp.csproj", "{D60C12C2-990B-4EF6-9672-0C1FFC3DF66E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8_GenericMyListApp", "Day8_GenericMyListApp\Day8_GenericMyListApp.csproj", "{BC1C86D8-C5E0-464D-9F0C-B54D182A8432}"
 EndProject
