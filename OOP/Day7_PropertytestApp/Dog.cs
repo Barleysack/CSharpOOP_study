@@ -16,16 +16,12 @@ namespace Day7_PropertytestApp
         
         public int Age
         {
-            get
-            {
-                return age;
+            get => this.age;
 
-            }
-            set
-            {
-                age = value;
+            set => this.age = value;
+            
 
-            }
+            
         }
 /*
         public int GetAge() 

@@ -61,7 +61,6 @@ namespace Day8_EventHandlerCheckApp
             this.txtUserID.Name = "txtUserID";
             this.txtUserID.Size = new System.Drawing.Size(193, 27);
             this.txtUserID.TabIndex = 2;
-           
             // 
             // txtPW
             // 
@@ -84,7 +83,7 @@ namespace Day8_EventHandlerCheckApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 108);
+            this.ClientSize = new System.Drawing.Size(482, 122);
             this.Controls.Add(this.BTNlogin);
             this.Controls.Add(this.txtPW);
             this.Controls.Add(this.txtUserID);
