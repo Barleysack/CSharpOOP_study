@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_LinqTestApp", "Day9_Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_ReflectionTestApp", "Day9_ReflectionTestApp\Day9_ReflectionTestApp.csproj", "{2C76E2F3-B72B-4560-8D74-CDC66BDAD159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicCreationTestApp", "DynamicCreationTestApp\DynamicCreationTestApp.csproj", "{4FAE9E0A-1BC5-4E2A-9E37-007BEC75905A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9_DynamicCreationTestApp", "DynamicCreationTestApp\Day9_DynamicCreationTestApp.csproj", "{4FAE9E0A-1BC5-4E2A-9E37-007BEC75905A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
