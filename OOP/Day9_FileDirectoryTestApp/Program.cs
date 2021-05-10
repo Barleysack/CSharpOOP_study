@@ -27,7 +27,7 @@ namespace Day9_FileDirectoryTestApp
 
             }
             string nupath = @"C:\Users\admin\Desktop\workspace\CSharpOOP_study\test\Help";//디렉토리, 파일생성 위치
-            int i = 1;
+            
             while (true)
             {
                 var input = Console.ReadLine();
